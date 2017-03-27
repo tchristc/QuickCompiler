@@ -122,7 +122,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Compiler.cs" />
+    <Compile Include="ObjectWrapper.cs" />
+    <Compile Include="Provider.cs" />
+    <Compile Include="SyntaxTreeProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
